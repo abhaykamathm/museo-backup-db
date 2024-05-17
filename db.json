@@ -13513,7 +13513,7 @@
       }
     ]
   },
-  "museo_readyToCheckout": {
+  "museo_readyToCheckout":  {
     "en": [
       {
         "id": 1707307000128,
@@ -13717,123 +13717,6 @@
         "your_bid": "$73.5K",
         "count": 1,
         "lot": 1
-      },
-      {
-        "id": 1707307350542,
-        "name": "पथ में शिकारी और ग्रामीणों के साथ इटलीय लैंडस्केप",
-        "artist": "जान डिर्क्स्ज़ बोथ",
-        "estimate_range": "$300k - $500k",
-        "saleNumber": "#18998",
-        "your_bid": "$73.5K",
-        "count": 5,
-        "lot": 16
-      },
-      {
-        "id": 1707307433676,
-        "name": "पर्सियस फिनियास और उसके अनुयायियों को पत्थर में बदलते हैं",
-        "artist": "लूका जियोर्डानो",
-        "estimate_range": "$200k - $300k",
-        "saleNumber": "#18998",
-        "your_bid": "$74K",
-        "count": 3,
-        "lot": 6
-      },
-      {
-        "id": 1707801979106,
-        "name": "इक्के होमो",
-        "artist": "जुजेप्पे असेरेटो",
-        "estimate_range": "$20k - $30k",
-        "saleNumber": "#18998",
-        "your_bid": "$73M",
-        "count": 27,
-        "lot": 16
-      },
-      {
-        "id": 1715320193789,
-        "name": "युवा व्यक्ति चक्रवाल धारण करते हुए चित्र",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "सैंड्रो बॉटिसेली द्वारा",
-        "collection_name": "सैंड्रो बॉटिसेली कलेक्शन",
-        "estimate_range": "$30k - $100k",
-        "date": "20 नवंबर, 2023 दोपहर 12:00 बजे पूर्वाह्न PT",
-        "saleNumber": "#28350",
-        "your_bid": "$4545K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715321825112,
-        "name": "रोमन कैंपैग्ना का दृश्य, झील नेमी के साथ",
-        "artist": "जीन-जोसेफ-जेवियर बिडौल्ड",
-        "collection_name": "जीन-जोसेफ-जेवियर बिडौल्ड कलेक्शन",
-        "estimate_range": "$60k - $80k",
-        "date": "20 नवंबर, 2023 दोपहर 12:00 बजे पूर्वाह्न PT",
-        "saleNumber": "#39787",
-        "your_bid": "$73M",
-        "count": 9,
-        "lot": 1
-      },
-      {
-        "id": 1715322112816,
-        "name": "पथ में शिकारी और ग्रामीणों के साथ इटलीय लैंडस्केप",
-        "artist": "जान डिर्क्स्ज़ बोथ",
-        "estimate_range": "$300k - $500k",
-        "date": "20 नवंबर, 2023 दोपहर 12:00 बजे पूर्वाह्न PT",
-        "saleNumber": "#14963",
-        "your_bid": "$73.5K",
-        "count": 5,
-        "lot": 16
-      },
-      {
-        "id": 1715322633671,
-        "name": "युवा व्यक्ति चक्रवाल धारण करते हुए चित्र",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "सैंड्रो बॉटिसेली द्वारा",
-        "collection_name": "सैंड्रो बॉटिसेली कलेक्शन",
-        "estimate_range": "$30k - $100k",
-        "date": "20 नवंबर, 2023 दोपहर 12:00 बजे पूर्वाह्न PT",
-        "saleNumber": "#30074",
-        "your_bid": "$45K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715322770164,
-        "name": "रोमन कैंपैग्ना का दृश्य, झील नेमी के साथ",
-        "artist": "जीन-जोसेफ-जेवियर बिडौल्ड",
-        "collection_name": "जीन-जोसेफ-जेवियर बिडौल्ड कलेक्शन",
-        "estimate_range": "$60k - $80k",
-        "date": "20 नवंबर, 2023 दोपहर 12:00 बजे पूर्वाह्न PT",
-        "saleNumber": "#44318",
-        "your_bid": "$73M",
-        "count": 9,
-        "lot": 1
-      },
-      {
-        "id": 1715323729526,
-        "name": "युवा व्यक्ति चक्रवाल धारण करते हुए चित्र",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "सैंड्रो बॉटिसेली द्वारा",
-        "collection_name": "सैंड्रो बॉटिसेली कलेक्शन",
-        "estimate_range": "$30k - $100k",
-        "date": "20 नवंबर, 2023 दोपहर 12:00 बजे पूर्वाह्न PT",
-        "saleNumber": "#73127",
-        "your_bid": "$45K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715323866146,
-        "name": "थीस्सीयस अपने पिता की तलवार को पुनः खोजते हुए",
-        "img_path": "/Images/Home/painting8.webp",
-        "artist": "थॉमस ब्लांशेट",
-        "collection_name": "थॉमस ब्लांशेट कलेक्शन",
-        "estimate_range": "$100k - $150k",
-        "date": "20 नवंबर, 2023 दोपहर 12:00 बजे पूर्वाह्न PT",
-        "saleNumber": "#33046",
-        "your_bid": "$73M",
-        "count": 1,
-        "lot": 1
       }
     ],
     "te": [
@@ -13873,123 +13756,6 @@
         "date": "2023 నవంబరు 20, ప్రాతః 12:00 గంటల పీటి",
         "saleNumber": "#18998",
         "your_bid": "$73.5K",
-        "count": 1,
-        "lot": 1
-      },
-      {
-        "id": 1707307350542,
-        "name": "పథంలో ప్రాణిందలు మరియు గ్రామీణులు ఉన్న ఇటాలియన్ లాండ్స్కేప్",
-        "artist": "జాన్ డిర్క్స్ జాన్ బోత్",
-        "estimate_range": "$300k - $500k",
-        "saleNumber": "#18998",
-        "your_bid": "$73.5K",
-        "count": 5,
-        "lot": 16
-      },
-      {
-        "id": 1707307433676,
-        "name": "పెర్సియస్ ఫినియాస్ మరియు తన అనుయాయులను రాయలుగా మార్చేస్తున్నారు",
-        "artist": "లూకా జియోర్డానో",
-        "estimate_range": "$200k - $300k",
-        "saleNumber": "#18998",
-        "your_bid": "$74K",
-        "count": 3,
-        "lot": 6
-      },
-      {
-        "id": 1707801979106,
-        "name": "ఎక్కే హోమో",
-        "artist": "గియుసెప్పే అసెరెటో",
-        "estimate_range": "$20k - $30k",
-        "saleNumber": "#18998",
-        "your_bid": "$73M",
-        "count": 27,
-        "lot": 16
-      },
-      {
-        "id": 1715320193789,
-        "name": "యువ మనిషి వృందంలో రౌండల్ ను ఉంచుకునే చిత్రం",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "సాండ్రో బోటిసెల్లి ద్వారా",
-        "collection_name": "సాండ్రో బోటిసెల్లి సంగ్రహం",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 నవంబరు 20, ప్రాతః 12:00 గంటల పీటి",
-        "saleNumber": "#28350",
-        "your_bid": "$4545K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715321825112,
-        "name": "రోమన్ కాంపేనా వీక్షణం, లేకుండా నెమి సరస్సు",
-        "artist": "జీన్-జోసెఫ్-జేవియర్ బిడౌల్డ్",
-        "collection_name": "జీన్-జోసెఫ్-జేవియర్ బిడౌల్డ్ సంగ్రహం",
-        "estimate_range": "$60k - $80k",
-        "date": "2023 నవంబరు 20, ప్రాతః 12:00 గంటల పీటి",
-        "saleNumber": "#39787",
-        "your_bid": "$73M",
-        "count": 9,
-        "lot": 1
-      },
-      {
-        "id": 1715322112816,
-        "name": "పథంలో ప్రాణిందలు మరియు గ్రామీణులు ఉన్న ఇటాలియన్ లాండ్స్కేప్",
-        "artist": "జాన్ డిర్క్స్ జాన్ బోత్",
-        "estimate_range": "$300k - $500k",
-        "date": "2023 నవంబరు 20, ప్రాతః 12:00 గంటల పీటి",
-        "saleNumber": "#14963",
-        "your_bid": "$73.5K",
-        "count": 5,
-        "lot": 16
-      },
-      {
-        "id": 1715322633671,
-        "name": "యువ మనిషి వృందంలో రౌండల్ ను ఉంచుకునే చిత్రం",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "సాండ్రో బోటిసెల్లి ద్వారా",
-        "collection_name": "సాండ్రో బోటిసెల్లి సంగ్రహం",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 నవంబరు 20, ప్రాతః 12:00 గంటల పీటి",
-        "saleNumber": "#30074",
-        "your_bid": "$45K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715322770164,
-        "name": "రోమన్ కాంపేనా వీక్షణం, లేకుండా నెమి సరస్సు",
-        "artist": "జీన్-జోసెఫ్-జేవియర్ బిడౌల్డ్",
-        "collection_name": "జీన్-జోసెఫ్-జేవియర్ బిడౌల్డ్ సంగ్రహం",
-        "estimate_range": "$60k - $80k",
-        "date": "2023 నవంబరు 20, ప్రాతః 12:00 గంటల పీటి",
-        "saleNumber": "#44318",
-        "your_bid": "$73M",
-        "count": 9,
-        "lot": 1
-      },
-      {
-        "id": 1715323729526,
-        "name": "యువ మనిషి వృందంలో రౌండల్ ను ఉంచుకునే చిత్రం",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "సాండ్రో బోటిసెల్లి ద్వారా",
-        "collection_name": "సాండ్రో బోటిసెల్లి సంగ్రహం",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 నవంబరు 20, ప్రాతః 12:00 గంటల పీటి",
-        "saleNumber": "#73127",
-        "your_bid": "$45K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715323866146,
-        "name": "థీసియస్ తన తండ్రి కత్తిని పునఃప్రస్థాపించుటకు",
-        "img_path": "/Images/Home/painting8.webp",
-        "artist": "థామస్ బ్లాంచెట్",
-        "collection_name": "థామస్ బ్లాంచెట్ సంగ్రహం",
-        "estimate_range": "$100k - $150k",
-        "date": "2023 నవంబరు 20, ప్రాతః 12:00 గంటల పీటి",
-        "saleNumber": "#33046",
-        "your_bid": "$73M",
         "count": 1,
         "lot": 1
       }
@@ -14033,123 +13799,6 @@
         "your_bid": "$73.5K",
         "count": 1,
         "lot": 1
-      },
-      {
-        "id": 1707307350542,
-        "name": "இடத்தில் உள்ள பாத மார்கங்களும் கிராம மக்களும் படப்பிடியில் பாலையடிக்கும் இடத்துக்குப் பிறகு இறக்கும் கருவிகளும் உள்ள இட்தலைவியுடன் ஒரு இடத்தில் இடப்பில் இட்டது",
-        "artist": "ஜான் டிர்க்ஸ்ஜ் போத்",
-        "estimate_range": "$300k - $500k",
-        "saleNumber": "#18998",
-        "your_bid": "$73.5K",
-        "count": 5,
-        "lot": 16
-      },
-      {
-        "id": 1707307433676,
-        "name": "பெர்சியஸ் தனது அனுயாயிகளை சலிக்கும் பெர்சியஸ்",
-        "artist": "லூக்கா ஜியோர்டானோ",
-        "estimate_range": "$200k - $300k",
-        "saleNumber": "#18998",
-        "your_bid": "$74K",
-        "count": 3,
-        "lot": 6
-      },
-      {
-        "id": 1707801979106,
-        "name": "எக்கே ஹோமோ",
-        "artist": "ஜியூஸெப்பே அச்செரெட்டோ",
-        "estimate_range": "$20k - $30k",
-        "saleNumber": "#18998",
-        "your_bid": "$73M",
-        "count": 27,
-        "lot": 16
-      },
-      {
-        "id": 1715320193789,
-        "name": "சுமார் வீதத்தில் இருந்து தெற்கோடு போல் நாவல் மற்றும் கப்பல்",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "சாண்ட்ரோ போட்டிசெல்லி மூலம்",
-        "collection_name": "சாண்ட்ரோ போட்டிசெல்லி சேகரிப்பு",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 நவம்பர் 20, பகல் 12:00 மணி PT",
-        "saleNumber": "#28350",
-        "your_bid": "$4545K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715321825112,
-        "name": "ரோமன் கேம்பானிய பார்க்க விசையாக கண்காணிக்கப்படும் வீதம், நெமி ஏரியானது",
-        "artist": "ஜீன்-ஜோசெப்-க்சவியர் பிடால்ட்",
-        "collection_name": "ஜீன்-ஜோசெப்-க்சவியர் பிடால்ட் சேகரிப்பு",
-        "estimate_range": "$60k - $80k",
-        "date": "2023 நவம்பர் 20, பகல் 12:00 மணி PT",
-        "saleNumber": "#39787",
-        "your_bid": "$73M",
-        "count": 9,
-        "lot": 1
-      },
-      {
-        "id": 1715322112816,
-        "name": "இடத்தில் உள்ள பாத மார்கங்களும் கிராம மக்களும் படப்பிடியில் பாலையடிக்கும் இடத்துக்குப் பிறகு இறக்கும் கருவிகளும் உள்ள இட்தலைவியுடன் ஒரு இடத்தில் இடப்பில் இட்டது",
-        "artist": "ஜான் டிர்க்ஸ்ஜ் போத்",
-        "estimate_range": "$300k - $500k",
-        "date": "2023 நவம்பர் 20, பகல் 12:00 மணி PT",
-        "saleNumber": "#14963",
-        "your_bid": "$73.5K",
-        "count": 5,
-        "lot": 16
-      },
-      {
-        "id": 1715322633671,
-        "name": "இடைவெளி சுமார் வீதத்தில் இருந்து தெற்கோடு போல் நாவல் மற்றும் கப்பல்",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "சாண்ட்ரோ போட்டிசெல்லி மூலம்",
-        "collection_name": "சாண்ட்ரோ போட்டிசெல்லி சேகரிப்பு",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 நவம்பர் 20, பகல் 12:00 மணி PT",
-        "saleNumber": "#30074",
-        "your_bid": "$45K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715322770164,
-        "name": "ரோமன் கேம்பானிய பார்க்க விசையாக கண்காணிக்கப்படும் வீதம், நெமி ஏரியானது",
-        "artist": "ஜீன்-ஜோசெப்-க்சவியர் பிடால்ட்",
-        "collection_name": "ஜீன்-ஜோசெப்-க்சவியர் பிடால்ட் சேகரிப்பு",
-        "estimate_range": "$60k - $80k",
-        "date": "2023 நவம்பர் 20, பகல் 12:00 மணி PT",
-        "saleNumber": "#44318",
-        "your_bid": "$73M",
-        "count": 9,
-        "lot": 1
-      },
-      {
-        "id": 1715323729526,
-        "name": "இடைவெளி சுமார் வீதத்தில் இருந்து தெற்கோடு போல் நாவல் மற்றும் கப்பல்",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "சாண்ட்ரோ போட்டிசெல்லி மூலம்",
-        "collection_name": "சாண்ட்ரோ போட்டிசெல்லி சேகரிப்பு",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 நவம்பர் 20, பகல் 12:00 மணி PT",
-        "saleNumber": "#73127",
-        "your_bid": "$45K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715323866146,
-        "name": "தீசியஸ் தனது தந்தை கத்தியை மீட்டுக்கொண்டு கண்டுபிடிக்கும் சித்திரம்",
-        "img_path": "/Images/Home/painting8.webp",
-        "artist": "தாமஸ் பிளான்செட்",
-        "collection_name": "தாமஸ் பிளான்செட் சேகரிப்பு",
-        "estimate_range": "$100k - $150k",
-        "date": "2023 நவம்பர் 20, பகல் 12:00 மணி PT",
-        "saleNumber": "#33046",
-        "your_bid": "$73M",
-        "count": 1,
-        "lot": 1
       }
     ],
     "kn": [
@@ -14191,123 +13840,6 @@
         "your_bid": "$73.5K",
         "count": 1,
         "lot": 1
-      },
-      {
-        "id": 1707307350542,
-        "name": "ಸಮೀಪದಲ್ಲಿ ಹಳ್ಳಿಯವರು ಮತ್ತು ಗ್ರಾಮವಾಸಿಗಳು ರಾಜಮಾರ್ಗದಲ್ಲಿ ಹಾದಿಯಾಗಿ ಹೋಗುವಾಗ ಮತ್ತು ಅವರ ಕುರಿಮರಿಗಳು ಹಿಂದೆ ಇರುವಾಗ ಇಟ್ಟಿದ್ದ ಇಟ್ಟಲೈವ್ ನೋಟಗಳೊಂದಿಗೆ ಇಟ್ಟಿದ್ದ ಇಟ್ಟಲೈವ್",
-        "artist": "ಜಾನ್ ಡಿರ್ಕ್ಸ್‌ ಬೋತ್",
-        "estimate_range": "$300k - $500k",
-        "saleNumber": "#18998",
-        "your_bid": "$73.5K",
-        "count": 5,
-        "lot": 16
-      },
-      {
-        "id": 1707307433676,
-        "name": "ಪರ್ಸಿಯಸ್ ಫಿನೀಯಾಸ್ ಮತ್ತು ಅವನ ಅನುಯಾಯಿಗಳನ್ನು ಕಲ್ಮಷಕ್ಕೆ ತರುವಾಗ",
-        "artist": "ಲೂಕಾ ಜಿಯೋರ್ಡಾನೊ",
-        "estimate_range": "$200k - $300k",
-        "saleNumber": "#18998",
-        "your_bid": "$74K",
-        "count": 3,
-        "lot": 6
-      },
-      {
-        "id": 1707801979106,
-        "name": "ಎಕ್ಕೇ ಹೋಮೋ",
-        "artist": "ಜೋಸೆಫ್ ಅಸೆರೆಟೊ",
-        "estimate_range": "$20k - $30k",
-        "saleNumber": "#18998",
-        "your_bid": "$73M",
-        "count": 27,
-        "lot": 16
-      },
-      {
-        "id": 1715320193789,
-        "name": "ಯುವ ಮನುಷ್ಯನು ಒಂದು ವೃತ್ತವನ್ನು ಹಿಡಿದಿರುವ ಪೋರ್ಟ್ರೇಟ್",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "ಸಾಂಡ್ರೋ ಬೊಟ್ಟಿಸೆಲ್ಲಿ ಮೂಲದ",
-        "collection_name": "ಸಾಂಡ್ರೋ ಬೊಟ್ಟಿಸೆಲ್ಲಿ ಸಂಗ್ರಹ",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 ನವೆಂಬರ್ 20, ಪ್ರಾತಃ 12:00 ಗಂಟೆ PT",
-        "saleNumber": "#28350",
-        "your_bid": "$4545K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715321825112,
-        "name": "ರೋಮನ್ ಕ್ಯಾಂಪನ್ಯಾ ನೋಡಲು, ನೆಮಿ ಹೊಳೆಯೊಂದು ಸಹಿತ ಕಣ್ಣಾಡುವುದು",
-        "artist": "ಜಾನ್-ಜೊಸೆಫ್-ಎಕ್ಸೇವಿಯರ್ ಬಿಡೊ",
-        "collection_name": "ಜಾನ್-ಜೊಸೆಫ್-ಎಕ್ಸೇವಿಯರ್ ಬಿಡೊ ಸಂಗ್ರಹ",
-        "estimate_range": "$60k - $80k",
-        "date": "2023 ನವೆಂಬರ್ 20, ಪ್ರಾತಃ 12:00 ಗಂಟೆ PT",
-        "saleNumber": "#39787",
-        "your_bid": "$73M",
-        "count": 9,
-        "lot": 1
-      },
-      {
-        "id": 1715322112816,
-        "name": "ಹಳ್ಳಿಯವರು ಮತ್ತು ಗ್ರಾಮವಾಸಿಗಳು ರಾಜಮಾರ್ಗದಲ್ಲಿ ಹಾದಿಯಾಗಿ ಹೋಗುವಾಗ ಮತ್ತು ಅವರ ಕುರಿಮರಿಗಳು ಹಿಂದೆ ಇರುವಾಗ ಇಟ್ಟಿದ್ದ ಇಟ್ಟಲೈವ್ ನೋಟಗಳೊಂದಿಗೆ ಇಟ್ಟಿದ್ದ ಇಟ್ಟಲೈವ್",
-        "artist": "ಜಾನ್ ಡಿರ್ಕ್ಸ್‌ ಬೋತ್",
-        "estimate_range": "$300k - $500k",
-        "date": "2023 ನವೆಂಬರ್ 20, ಪ್ರಾತಃ 12:00 ಗಂಟೆ PT",
-        "saleNumber": "#14963",
-        "your_bid": "$73.5K",
-        "count": 5,
-        "lot": 16
-      },
-      {
-        "id": 1715322633671,
-        "name": "ಸಮೀಪದಲ್ಲಿ ಹಳ್ಳಿಯವರು ಮತ್ತು ಗ್ರಾಮವಾಸಿಗಳು ರಾಜಮಾರ್ಗದಲ್ಲಿ ಹಾದಿಯಾಗಿ ಹೋಗುವಾಗ ಮತ್ತು ಅವರ ಕುರಿಮರಿಗಳು ಹಿಂದೆ ಇರುವಾಗ ಇಟ್ಟಿದ್ದ ಇಟ್ಟಲೈವ್ ನೋಟಗಳೊಂದಿಗೆ ಇಟ್ಟಿದ್ದ ಇಟ್ಟಲೈವ್",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "ಸಾಂಡ್ರೋ ಬೊಟ್ಟಿಸೆಲ್ಲಿ ಮೂಲದ",
-        "collection_name": "ಸಾಂಡ್ರೋ ಬೊಟ್ಟಿಸೆಲ್ಲಿ ಸಂಗ್ರಹ",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 ನವೆಂಬರ್ 20, ಪ್ರಾತಃ 12:00 ಗಂಟೆ PT",
-        "saleNumber": "#30074",
-        "your_bid": "$45K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715322770164,
-        "name": "ರೋಮನ್ ಕ್ಯಾಂಪನ್ಯಾ ನೋಡಲು, ನೆಮಿ ಹೊಳೆಯೊಂದು ಸಹಿತ ಕಣ್ಣಾಡುವುದು",
-        "artist": "ಜಾನ್-ಜೊಸೆಫ್-ಎಕ್ಸೇವಿಯರ್ ಬಿಡೊ",
-        "collection_name": "ಜಾನ್-ಜೊಸೆಫ್-ಎಕ್ಸೇವಿಯರ್ ಬಿಡೊ ಸಂಗ್ರಹ",
-        "estimate_range": "$60k - $80k",
-        "date": "2023 ನವೆಂಬರ್ 20, ಪ್ರಾತಃ 12:00 ಗಂಟೆ PT",
-        "saleNumber": "#44318",
-        "your_bid": "$73M",
-        "count": 9,
-        "lot": 1
-      },
-      {
-        "id": 1715323729526,
-        "name": "ಯುವ ಮನುಷ್ಯನು ಒಂದು ವೃತ್ತವನ್ನು ಹಿಡಿದಿರುವ ಪೋರ್ಟ್ರೇಟ್",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "ಸಾಂಡ್ರೋ ಬೊಟ್ಟಿಸೆಲ್ಲಿ ಮೂಲದ",
-        "collection_name": "ಸಾಂಡ್ರೋ ಬೊಟ್ಟಿಸೆಲ್ಲಿ ಸಂಗ್ರಹ",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 ನವೆಂಬರ್ 20, ಪ್ರಾತಃ 12:00 ಗಂಟೆ PT",
-        "saleNumber": "#73127",
-        "your_bid": "$45K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715323866146,
-        "name": "ತೀಸಿಯಸ್ ತನ್ನ ತಂದೆಯ ಕತ್ತಿಯನ್ನು ಪುನಃಪ್ರಸ್ಥಾಪಿಸುವುದು",
-        "img_path": "/Images/Home/painting8.webp",
-        "artist": "ಥಾಮಸ್ ಬ್ಲಾಂಚೆಟ್",
-        "collection_name": "ಥಾಮಸ್ ಬ್ಲಾಂಚೆಟ್ ಸಂಗ್ರಹ",
-        "estimate_range": "$100k - $150k",
-        "date": "2023 ನವೆಂಬರ್ 20, ಪ್ರಾತಃ 12:00 ಗಂಟೆ PT",
-        "saleNumber": "#33046",
-        "your_bid": "$73M",
-        "count": 1,
-        "lot": 1
       }
     ],
     "ml": [
@@ -14347,123 +13879,6 @@
         "date": "2023 നവംബർ 20, പ്രാതി 12:00 മണി PT",
         "saleNumber": "#18998",
         "your_bid": "$73.5K",
-        "count": 1,
-        "lot": 1
-      },
-      {
-        "id": 1707307350542,
-        "name": "പാക്കറ്റിൽ താമസിക്കുന്ന ഇറ്റാലിയൻ ഭൂമിയിൽ അന്വേഷകർ മറ്റുള്ളവർക്ക് കാണാം",
-        "artist": "ജാൻ ഡിർക്സ് ബോത്ത്",
-        "estimate_range": "$300k - $500k",
-        "saleNumber": "#18998",
-        "your_bid": "$73.5K",
-        "count": 5,
-        "lot": 16
-      },
-      {
-        "id": 1707307433676,
-        "name": "പെർസിയസ് ഫിനീയാസ് മറ്റുള്ളവരെ കല്മഷപ്പെടുത്തുന്നു",
-        "artist": "ലൂക്ക ജിയോർഡാനോ",
-        "estimate_range": "$200k - $300k",
-        "saleNumber": "#18998",
-        "your_bid": "$74K",
-        "count": 3,
-        "lot": 6
-      },
-      {
-        "id": 1707801979106,
-        "name": "എക്കേ ഹോമോ",
-        "artist": "ജോസഫ് അസ്സരെറ്റോ",
-        "estimate_range": "$20k - $30k",
-        "saleNumber": "#18998",
-        "your_bid": "$73M",
-        "count": 27,
-        "lot": 16
-      },
-      {
-        "id": 1715320193789,
-        "name": "യുവാവായ മനുഷ്യൻ ഒരു ചക്രവിൽ നിന്നും നിറയുന്ന പോർട്രെയ്റ്റ്",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "സാന്ദ്രോ ബോട്ടിസെല്ലിയുടെ",
-        "collection_name": "സാന്ദ്രോ ബോട്ടിസെല്ലിയുടെ ശേഖരം",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 നവംബർ 20, പ്രാതി 12:00 മണി PT",
-        "saleNumber": "#28350",
-        "your_bid": "$4545K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715321825112,
-        "name": "റോമൻ കാംപഗ്നായുടെ നിഴലും, നെമി ഹോളിയും കൂടെ ഒരു ദൃശ്യം",
-        "artist": "ജാൻ-ജോസഫ്-എക്സേവിയർ ബിഡോ",
-        "collection_name": "ജാൻ-ജോസഫ്-എക്സേവിയർ ബിഡോ ശേഖരം",
-        "estimate_range": "$60k - $80k",
-        "date": "2023 നവംബർ 20, പ്രാതി 12:00 മണി PT",
-        "saleNumber": "#39787",
-        "your_bid": "$73M",
-        "count": 9,
-        "lot": 1
-      },
-      {
-        "id": 1715322112816,
-        "name": "ഹന്ട്സ്മെൻ മറ്റുള്ളവരും കാട്ടിയും ഗ്രാമവാസികളും ഒരു പാതയിൽ നടക്കുന്നതിനുള്ള ഇറ്റാലിയൻ ലാൻഡ്സ്കേപ്പ് മറ്റുള്ളവരുടെ മുന്നിൽ നായകൻ കൂടെ ഒരു പാത വിധികളുള്ള ഗ്രാമവാസികളും അവരുടെ മാടുകൾ",
-        "artist": "ജാൻ ഡിർക്സ് ബോത്ത്",
-        "estimate_range": "$300k - $500k",
-        "date": "2023 നവംബർ 20, പ്രാതി 12:00 മണി PT",
-        "saleNumber": "#14963",
-        "your_bid": "$73.5K",
-        "count": 5,
-        "lot": 16
-      },
-      {
-        "id": 1715322633671,
-        "name": "സമീപത്ത് ഹന്ട്സ്മെൻ മറ്റുള്ളവരും കാട്ടിയും ഗ്രാമവാസികളും ഒരു പാതയിൽ നടക്കുന്നതിനുള്ള ഇറ്റാലിയൻ ലാൻഡ്സ്കേപ്പ് മറ്റുള്ളവരുടെ മുന്നിൽ നായകൻ കൂടെ ഒരു പാത വിധികളുള്ള ഗ്രാമവാസികളും അവരുടെ മാടുകൾ",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "സാന്ദ്രോ ബോട്ടിസെല്ലി",
-        "collection_name": "സാന്ദ്രോ ബോട്ടിസെല്ലിയുടെ ശേഖരം",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 നവംബർ 20, പ്രാതി 12:00 മണി PT",
-        "saleNumber": "#30074",
-        "your_bid": "$45K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715322770164,
-        "name": "റോമൻ കാംപഗ്നായുടെ നിഴലും, നെമി ഹോളിയും കൂടെ ഒരു ദൃശ്യം",
-        "artist": "ജാൻ-ജോസഫ്-എക്സേവിയർ ബിഡോ",
-        "collection_name": "ജാൻ-ജോസഫ്-എക്സേവിയർ ബിഡോ ശേഖരം",
-        "estimate_range": "$60k - $80k",
-        "date": "2023 നവംബർ 20, പ്രാതി 12:00 മണി PT",
-        "saleNumber": "#44318",
-        "your_bid": "$73M",
-        "count": 9,
-        "lot": 1
-      },
-      {
-        "id": 1715323729526,
-        "name": "യുവാവായ മനുഷ്യൻ ഒരു ചക്രവിൽ നിന്നും നിറയുന്ന പോർട്രെയ്റ്റ്",
-        "img_path": "/Images/Home/painting1.webp",
-        "artist": "സാന്ദ്രോ ബോട്ടിസെല്ലി",
-        "collection_name": "സാന്ദ്രോ ബോട്ടിസെല്ലിയുടെ ശേഖരം",
-        "estimate_range": "$30k - $100k",
-        "date": "2023 നവംബർ 20, പ്രാതി 12:00 മണി PT",
-        "saleNumber": "#73127",
-        "your_bid": "$45K",
-        "count": 5,
-        "lot": 26
-      },
-      {
-        "id": 1715323866146,
-        "name": "അവന്റെ പിതാവിന്റെ കത്തി തിരികെ കണ്ടുമിടുക്കുന്നു",
-        "img_path": "/Images/Home/painting8.webp",
-        "artist": "തോമസ് ബ്ലാൻചെറ്റ്",
-        "collection_name": "തോമസ് ബ്ലാൻചെറ്റ് ശേഖരം",
-        "estimate_range": "$100k - $150k",
-        "date": "2023 നവംബർ 20, പ്രാതി 12:00 മണി PT",
-        "saleNumber": "#33046",
-        "your_bid": "$73M",
         "count": 1,
         "lot": 1
       }
@@ -14531,7 +13946,7 @@
         "img_path": "/Images/Home/painting1.webp",
         "artist": "सैंड्रो बोटिकेली",
         "count": 12,
-        "auction_type": "आगामी",
+        "auction_type": "upcoming",
         "lot": 25,
         "timer": {
           "show": false,
@@ -14544,7 +13959,7 @@
         "img_path": "/Images/Home/painting14.webp",
         "artist": "पीटर ब्रुइगेल II",
         "count": 12,
-        "auction_type": "आगामी",
+        "auction_type": "upcoming",
         "lot": 13,
         "timer": {
           "show": false,
@@ -14557,7 +13972,7 @@
         "img_path": "/Images/Home/painting16.webp",
         "artist": "जान डिर्क्स्ज़ बोथ",
         "count": 16,
-        "auction_type": "लाइव",
+        "auction_type": "live",
         "lot": 1,
         "timer": {
           "show": false,
@@ -14570,7 +13985,7 @@
         "img_path": "/Images/Home/painting7.webp",
         "artist": "साइमन जोसेफ अलेक्जांड्र क्लेमेंट डेनिस",
         "count": 12,
-        "auction_type": "लाइव",
+        "auction_type": "live",
         "lot": 1,
         "timer": {
           "show": false,
@@ -14585,7 +14000,7 @@
         "img_path": "/Images/Home/painting1.webp",
         "artist": "సాండ్రో బోటికెలీ",
         "count": 12,
-        "auction_type": "కనుక",
+        "auction_type": "upcoming",
         "lot": 25,
         "timer": {
           "show": false,
@@ -14598,7 +14013,7 @@
         "img_path": "/Images/Home/painting14.webp",
         "artist": "పీటర్ బ్రేయుగెల్ II",
         "count": 12,
-        "auction_type": "కనుక",
+        "auction_type": "upcoming",
         "lot": 13,
         "timer": {
           "show": false,
@@ -14611,7 +14026,7 @@
         "img_path": "/Images/Home/painting16.webp",
         "artist": "జాన్ డిర్క్స్ బోత్",
         "count": 16,
-        "auction_type": "లైవ్",
+        "auction_type": "live",
         "lot": 1,
         "timer": {
           "show": false,
@@ -14624,7 +14039,7 @@
         "img_path": "/Images/Home/painting7.webp",
         "artist": "సైమన్ జోసెఫ్ అలెక్జాండర్ క్లెమెంట్ డెనిస్",
         "count": 12,
-        "auction_type": "లైవ్",
+        "auction_type": "live",
         "lot": 1,
         "timer": {
           "show": false,
@@ -14639,7 +14054,7 @@
         "img_path": "/Images/Home/painting1.webp",
         "artist": "சாண்ட்ரோ போட்டிசெல்லி",
         "count": 12,
-        "auction_type": "வரவேற்பு",
+        "auction_type": "upcoming",
         "lot": 25,
         "timer": {
           "show": false,
@@ -14652,7 +14067,7 @@
         "img_path": "/Images/Home/painting14.webp",
         "artist": "பீட்டர் புரூஹேல் II",
         "count": 12,
-        "auction_type": "வரவேற்பு",
+        "auction_type": "upcoming",
         "lot": 13,
         "timer": {
           "show": false,
@@ -14665,7 +14080,7 @@
         "img_path": "/Images/Home/painting16.webp",
         "artist": "ஜான் டிர்க்ஸ் போத்",
         "count": 16,
-        "auction_type": "நேரடி",
+        "auction_type": "live",
         "lot": 1,
         "timer": {
           "show": false,
@@ -14678,7 +14093,7 @@
         "img_path": "/Images/Home/painting7.webp",
         "artist": "சைமன் ஜோசெஃப் அலெக்ஸாண்டர் கிளெமெண்ட் டெனிஸ்",
         "count": 12,
-        "auction_type": "நேரடி",
+        "auction_type": "live",
         "lot": 1,
         "timer": {
           "show": false,
@@ -14693,7 +14108,7 @@
         "img_path": "/Images/Home/painting1.webp",
         "artist": "ಸ್ಯಾಂಡ್ರೋ ಬೊಟಿಕೆಲ್ಲಿ",
         "count": 12,
-        "auction_type": "ಮುಂದಾಗುತ್ತಿದೆ",
+        "auction_type": "upcoming",
         "lot": 25,
         "timer": {
           "show": false,
@@ -14706,7 +14121,7 @@
         "img_path": "/Images/Home/painting14.webp",
         "artist": "ಪಿಟ್ರ್ ಬ್ರುಹೇಲ್ II",
         "count": 12,
-        "auction_type": "ಮುಂದಾಗುತ್ತಿದೆ",
+        "auction_type": "upcoming",
         "lot": 13,
         "timer": {
           "show": false,
@@ -14719,7 +14134,7 @@
         "img_path": "/Images/Home/painting16.webp",
         "artist": "ಜಾನ್ ಡಿರ್ಕ್ಸ್ ಬೋತ್",
         "count": 16,
-        "auction_type": "ಲೈವ್",
+        "auction_type": "live",
         "lot": 1,
         "timer": {
           "show": false,
@@ -14732,7 +14147,7 @@
         "img_path": "/Images/Home/painting7.webp",
         "artist": "ಸೈಮನ್ ಜೋಸೆಫ್ ಅಲೆಕ್ಸಾಂಡರ್ ಕ್ಲೆಮೆಂಟ್ ಡೆನಿಸ್",
         "count": 12,
-        "auction_type": "ಲೈವ್",
+        "auction_type": "live",
         "lot": 1,
         "timer": {
           "show": false,
@@ -14747,7 +14162,7 @@
         "img_path": "/Images/Home/painting1.webp",
         "artist": "സാന്ദ്രോ ബൊട്ടിച്ചെല്ലി",
         "count": 12,
-        "auction_type": "എത്തുക",
+        "auction_type": "upcoming",
         "lot": 25,
         "timer": {
           "show": false,
@@ -14760,7 +14175,7 @@
         "img_path": "/Images/Home/painting14.webp",
         "artist": "പീറ്റര്‍ ബ്രുഹെല്‍ II",
         "count": 12,
-        "auction_type": "എത്തുക",
+        "auction_type": "upcoming",
         "lot": 13,
         "timer": {
           "show": false,
@@ -14773,7 +14188,7 @@
         "img_path": "/Images/Home/painting16.webp",
         "artist": "ജാന്‍ ഡിര്‍ക്സ് ബോത്ത്",
         "count": 16,
-        "auction_type": "ലൈവ്",
+        "auction_type": "live",
         "lot": 1,
         "timer": {
           "show": false,
@@ -14786,7 +14201,7 @@
         "img_path": "/Images/Home/painting7.webp",
         "artist": "സൈമന്‍ ജോസഫ് അലക്സാണ്ടര്‍ ക്ലെമെന്‍റ് ഡെനിസ്",
         "count": 12,
-        "auction_type": "ലൈവ്",
+        "auction_type": "live",
         "lot": 1,
         "timer": {
           "show": false,
