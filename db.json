@@ -53,7 +53,8 @@
           }
         ],
         "auction_location": "Alabama",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alabama"
       },
       {
         "name": "Theseus rediscovering his father's sword",
@@ -114,7 +115,8 @@
         ],
         "auction_location": "California",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "California"
       },
       {
         "name": "View of the Roman Campagna, with Lake Nemi",
@@ -174,7 +176,8 @@
         ],
         "auction_location": "Colorado",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "An Italianate landscape with huntsmen and villagers on a path and shepherds with their herd in the background",
@@ -238,7 +241,8 @@
         ],
         "auction_location": "Hawaii",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "A guitar, tambourine, hunting horn, clarinet, oboe, and a drum on a marble-topped table",
@@ -303,7 +307,8 @@
           }
         ],
         "auction_location": "Alaska",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alaska"
       },
       {
         "name": "A lace-trimmed hand cloth, a pan dulce and glassware on a stand, all arranged upon a tabletop draped with green damask",
@@ -364,7 +369,8 @@
         "auction_end_time": "35",
         "auction_start_time": "35",
         "auction_location": "Washington",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Washington"
       },
       {
         "name": "A cloud study over a Roman town",
@@ -425,7 +431,8 @@
           }
         ],
         "auction_location": "Arkansas",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Arkansas"
       },
       {
         "name": "Theseus rediscovering his father's sword",
@@ -485,7 +492,8 @@
           }
         ],
         "auction_location": "California",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "California"
       },
       {
         "name": "View of the Roman Campagna, with Lake Nemi",
@@ -544,7 +552,8 @@
           }
         ],
         "auction_location": "Colorado",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "Naples, a view of the Seiano Grotto in Posillipo with the Tomb of Virgil",
@@ -607,7 +616,8 @@
           }
         ],
         "auction_location": "Connecticut",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Connecticut"
       },
       {
         "name": "The River Aare at Thun, looking towards Lake Thun, with the Niesen and the Bernese Alps beyond",
@@ -672,7 +682,8 @@
           }
         ],
         "auction_location": "Delaware",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Delaware"
       },
       {
         "name": "Portrait of a Woman, Bust-Length",
@@ -728,7 +739,8 @@
           }
         ],
         "auction_location": "District of Columbia",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "District of Columbia"
       },
       {
         "name": "A Dutch Ship and Vessel Under Sail in a Moderate Breeze off a High Coast",
@@ -782,7 +794,8 @@
           }
         ],
         "auction_location": "Florida",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Florida"
       },
       {
         "name": "Summer: The Harvesters",
@@ -838,7 +851,8 @@
           }
         ],
         "auction_location": "Georgia",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Georgia"
       },
       {
         "name": "An Italianate landscape with huntsmen and villagers on a path and shepherds with their herd in the background",
@@ -901,7 +915,8 @@
           }
         ],
         "auction_location": "Hawaii",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "Perseus turning Phineas and his followers to stone",
@@ -960,7 +975,8 @@
           }
         ],
         "auction_location": "Idaho",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Idaho"
       },
       {
         "name": "The Holy Family",
@@ -1019,7 +1035,8 @@
           }
         ],
         "auction_location": "Illinois",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Illinois"
       },
       {
         "name": "The Madonna and Child with Saints Dominic and Catherine of Siena",
@@ -1072,7 +1089,8 @@
           }
         ],
         "auction_location": "Indiana",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Indiana"
       },
       {
         "name": "The Adoration of the Shepherds",
@@ -1128,7 +1146,8 @@
           }
         ],
         "auction_location": "Iowa",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Iowa"
       },
       {
         "name": "Ecce Homo",
@@ -1187,7 +1206,8 @@
           }
         ],
         "auction_location": "Kansas",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kansas"
       },
       {
         "name": "A Winter Landscape with Skaters on a Frozen River",
@@ -1244,7 +1264,8 @@
           }
         ],
         "auction_location": "Kentucky",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kentucky"
       },
       {
         "name": "Christ at Supper with Simon the Pharisee",
@@ -1296,7 +1317,8 @@
           }
         ],
         "auction_location": "Louisiana",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Louisiana"
       },
       {
         "name": "The Adoration of the Magi",
@@ -1351,7 +1373,8 @@
           }
         ],
         "auction_location": "Maine",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maine"
       },
       {
         "name": "An allegory of Public Faith",
@@ -1409,7 +1432,8 @@
           }
         ],
         "auction_location": "Maryland",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maryland"
       },
       {
         "name": "The Infant Saint John the Baptist with the Lamb",
@@ -1466,7 +1490,8 @@
           }
         ],
         "auction_location": "Massachusetts",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Massachusetts"
       },
       {
         "name": "The Blind Hurdy-Gurdy Player",
@@ -1519,7 +1544,8 @@
           }
         ],
         "auction_location": "Michigan",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Michigan"
       },
       {
         "name": "A Winter Landscape with Elegant Ice Skaters",
@@ -1575,7 +1601,8 @@
         "auction_end_time": "15",
         "auction_start_time": "15",
         "auction_location": "Minnesota",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Minnesota"
       },
       {
         "name": "Fishermen Displaying Their Catch on a Rocky Coast",
@@ -1632,7 +1659,8 @@
           }
         ],
         "auction_location": "Mississippi",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Mississippi"
       },
       {
         "name": "Coastal Sunset: A Tranquil Scene",
@@ -1688,7 +1716,8 @@
           }
         ],
         "auction_location": "Missouri",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Missouri"
       },
       {
         "name": "An Elegant Lady on Horseback Giving Alms",
@@ -1750,7 +1779,8 @@
           }
         ],
         "auction_location": "Montana",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Montana"
       },
       {
         "name": "The Kermesse of Saint George",
@@ -1808,7 +1838,8 @@
           }
         ],
         "auction_location": "Nebraska",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nebraska"
       },
       {
         "name": "Annie Stokes",
@@ -1860,7 +1891,8 @@
           }
         ],
         "auction_location": "Nevada",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nevada"
       },
       {
         "name": "Jennifer Le",
@@ -1912,7 +1944,8 @@
           }
         ],
         "auction_location": "New Hampshire",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Hampshire"
       },
       {
         "name": "Shane",
@@ -1950,7 +1983,8 @@
         "auction_end_time": "2023-11-20T18:00:00",
         "auction_start_time": "2023-11-01T09:00:00",
         "auction_location": "New Jersey",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Jersey"
       }
     ],
     "hi": [
@@ -2006,7 +2040,8 @@
           }
         ],
         "auction_location": "अलाबामा",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alabama"
       },
       {
         "name": "थेसियस अपने पिता की तलवार को फिर से खोज रहा है",
@@ -2067,7 +2102,8 @@
         ],
         "auction_location": "कैलिफोर्निया",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "California"
       },
       {
         "name": "नेमी झील के साथ रोमन कैम्पगना का दृश्य",
@@ -2127,7 +2163,8 @@
         ],
         "auction_location": "कोलोराडो",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "पथ पर शिकारियों और ग्रामीणों के साथ एक इतालवी परिदृश्य और पृष्ठभूमि में अपने झुंड के साथ चरवाहे",
@@ -2191,7 +2228,8 @@
         ],
         "auction_location": "हवाई",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "एक गिटार, डफ, शिकार का सींग, शहनाई, ओबो, और संगमरमर की शीर्ष वाली मेज पर एक ड्रम",
@@ -2256,7 +2294,8 @@
           }
         ],
         "auction_location": "अलास्का",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alaska"
       },
       {
         "name": "एक फीता-छंटनी वाला हाथ का कपड़ा, एक पैन डलस और एक स्टैंड पर कांच के बर्तन, सभी हरे डैमस्क से लिपटे एक टेबलटॉप पर व्यवस्थित थे",
@@ -2317,7 +2356,8 @@
         "auction_end_time": "35",
         "auction_start_time": "35",
         "auction_location": "वाशिंगटन",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Washington"
       },
       {
         "name": "एक रोमन शहर पर एक बादल अध्ययन",
@@ -2378,7 +2418,8 @@
           }
         ],
         "auction_location": "अर्कांसस",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Arkansas"
       },
       {
         "name": "थेसियस अपने पिता की तलवार को फिर से खोज रहा है",
@@ -2438,7 +2479,8 @@
           }
         ],
         "auction_location": "कैलिफोर्निया",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "California"
       },
       {
         "name": "नेमी झील के साथ रोमन कैम्पगना का दृश्य",
@@ -2497,7 +2539,8 @@
           }
         ],
         "auction_location": "कोलोराडो",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "नेपल्स, वर्जिल के मकबरे के साथ पॉसिलिपो में सियानो ग्रोटो का एक दृश्य",
@@ -2560,7 +2603,8 @@
           }
         ],
         "auction_location": "कनेक्टिकट",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Connecticut"
       },
       {
         "name": "थून में आरे नदी, थून झील की ओर देखती है, जिसके पार नीसेन और बर्नीज़ आल्प्स हैं",
@@ -2625,7 +2669,8 @@
           }
         ],
         "auction_location": "डेलावेयर",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Delaware"
       },
       {
         "name": "एक महिला का चित्र, वक्ष-लंबाई",
@@ -2681,7 +2726,8 @@
           }
         ],
         "auction_location": "कोलंबिया के जिला",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "District of Columbia"
       },
       {
         "name": "उच्च तट पर मध्यम हवा में एक डच जहाज और जहाज़ चल रहे हैं",
@@ -2738,7 +2784,8 @@
           }
         ],
         "auction_location": "फ्लोरिडा",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Florida"
       },
       {
         "name": "ग्रीष्म: हार्वेस्टर",
@@ -2794,7 +2841,8 @@
           }
         ],
         "auction_location": "जॉर्जिया",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Georgia"
       },
       {
         "name": "पथ पर शिकारियों और ग्रामीणों के साथ एक इतालवी परिदृश्य और पृष्ठभूमि में अपने झुंड के साथ चरवाहे",
@@ -2857,7 +2905,8 @@
           }
         ],
         "auction_location": "हवाई",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "पर्सियस ने फिनीस और उसके अनुयायियों को पत्थर में बदल दिया",
@@ -2916,7 +2965,8 @@
           }
         ],
         "auction_location": "इडाहो",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Idaho"
       },
       {
         "name": "पवित्र परिवार",
@@ -2975,7 +3025,8 @@
           }
         ],
         "auction_location": "इलिनोइस",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Illinois"
       },
       {
         "name": "सिएना के संत डोमिनिक और कैथरीन के साथ मैडोना और बाल",
@@ -3028,7 +3079,8 @@
           }
         ],
         "auction_location": "इंडियाना",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Indiana"
       },
       {
         "name": "चरवाहों की आराधना",
@@ -3084,7 +3136,8 @@
           }
         ],
         "auction_location": "आयोवा",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Iowa"
       },
       {
         "name": "उदाहरण के लिए होमो",
@@ -3143,7 +3196,8 @@
           }
         ],
         "auction_location": "कान्सास",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kansas"
       },
       {
         "name": "जमी हुई नदी पर स्केटर्स के साथ एक शीतकालीन परिदृश्य",
@@ -3200,7 +3254,8 @@
           }
         ],
         "auction_location": "केंटकी",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kentucky"
       },
       {
         "name": "भोज में मसीह शमौन फरीसी के साथ",
@@ -3252,7 +3307,8 @@
           }
         ],
         "auction_location": "लुइसियाना",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Louisiana"
       },
       {
         "name": "मैगी की आराधना",
@@ -3307,7 +3363,8 @@
           }
         ],
         "auction_location": "मैंने",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maine"
       },
       {
         "name": "लोक आस्था का एक रूपक",
@@ -3365,7 +3422,8 @@
           }
         ],
         "auction_location": "मैरीलैंड",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maryland"
       },
       {
         "name": "मेमने के साथ शिशु संत जॉन बैपटिस्ट",
@@ -3422,7 +3480,8 @@
           }
         ],
         "auction_location": "मैसाचुसेट्स",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Massachusetts"
       },
       {
         "name": "द ब्लाइंड हर्डी-गुर्डी प्लेयर",
@@ -3475,7 +3534,8 @@
           }
         ],
         "auction_location": "मिशिगन",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Michigan"
       },
       {
         "name": "खूबसूरत आइस स्केटर्स के साथ एक शीतकालीन परिदृश्य",
@@ -3531,7 +3591,8 @@
         "auction_end_time": "15",
         "auction_start_time": "15",
         "auction_location": "मिनेसोटा",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Minnesota"
       },
       {
         "name": "चट्टानी तट पर मछुआरे अपनी पकड़ का प्रदर्शन करते हुए",
@@ -3588,7 +3649,8 @@
           }
         ],
         "auction_location": "मिसिसिपी",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Mississippi"
       },
       {
         "name": "तटीय सूर्यास्त: एक शांत दृश्य",
@@ -3644,7 +3706,8 @@
           }
         ],
         "auction_location": "मिसौरी",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Missouri"
       },
       {
         "name": "घोड़े पर सवार एक सुंदर महिला भिक्षा देती हुई",
@@ -3706,7 +3769,8 @@
           }
         ],
         "auction_location": "MONTANA",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Montana"
       },
       {
         "name": "सेंट जॉर्ज का कर्मेस",
@@ -3764,7 +3828,8 @@
           }
         ],
         "auction_location": "नेब्रास्का",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nebraska"
       },
       {
         "name": "एनी स्टोक्स",
@@ -3816,7 +3881,8 @@
           }
         ],
         "auction_location": "नेवादा",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nevada"
       },
       {
         "name": "जेनिफ़र ले",
@@ -3868,7 +3934,8 @@
           }
         ],
         "auction_location": "न्यू हैम्पशायर",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Hampshire"
       },
       {
         "name": "शेन",
@@ -3906,7 +3973,8 @@
         "auction_end_time": "2023-11-20T18:00:00",
         "auction_start_time": "2023-11-01T09:00:00",
         "auction_location": "न्यू जर्सी",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Jersey"
       }
     ],
     "te": [
@@ -3962,7 +4030,8 @@
           }
         ],
         "auction_location": "అలబామా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alabama"
       },
       {
         "name": "థీసస్ తన తండ్రి కత్తిని మళ్లీ కనుగొన్నాడు",
@@ -4023,7 +4092,8 @@
         ],
         "auction_location": "కాలిఫోర్నియా",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "California"
       },
       {
         "name": "నేమి సరస్సుతో కూడిన రోమన్ క్యాంపాగ్నా దృశ్యం",
@@ -4086,7 +4156,8 @@
         ],
         "auction_location": "కొలరాడో",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "ఒక దారిలో వేటగాళ్లు మరియు గ్రామస్థులు మరియు నేపథ్యంలో వారి మందతో గొర్రెల కాపరులతో ఇటాలియన్ ప్రకృతి దృశ్యం",
@@ -4150,7 +4221,8 @@
         ],
         "auction_location": "హవాయి",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "ఒక గిటార్, టాంబురైన్, హంటింగ్ హార్న్, క్లారినెట్, ఒబో, మరియు ఒక పాలరాయితో ఉన్న టేబుల్‌పై డ్రమ్",
@@ -4215,7 +4287,8 @@
           }
         ],
         "auction_location": "అలాస్కా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alaska"
       },
       {
         "name": "లేస్-కత్తిరించిన చేతి గుడ్డ, ఒక స్టాండ్‌పై పాన్ డ్యూల్స్ మరియు గాజుసామాను, అన్నీ ఆకుపచ్చ డమాస్క్‌తో కప్పబడిన టేబుల్‌టాప్‌పై అమర్చబడి ఉంటాయి",
@@ -4276,7 +4349,8 @@
         "auction_end_time": "35",
         "auction_start_time": "35",
         "auction_location": "వాషింగ్టన్",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Washington"
       },
       {
         "name": "రోమన్ పట్టణంపై క్లౌడ్ అధ్యయనం",
@@ -4337,7 +4411,8 @@
           }
         ],
         "auction_location": "అర్కాన్సాస్",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Arkansas"
       },
       {
         "name": "థీసస్ తన తండ్రి కత్తిని మళ్లీ కనుగొన్నాడు",
@@ -4397,7 +4472,8 @@
           }
         ],
         "auction_location": "కాలిఫోర్నియా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "California"
       },
       {
         "name": "నేమి సరస్సుతో కూడిన రోమన్ క్యాంపాగ్నా దృశ్యం",
@@ -4459,7 +4535,8 @@
           }
         ],
         "auction_location": "కొలరాడో",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "నేపుల్స్, వర్జిల్ సమాధితో పొసిలిపోలోని సీయానో గ్రోట్టో దృశ్యం",
@@ -4522,7 +4599,8 @@
           }
         ],
         "auction_location": "కనెక్టికట్",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Connecticut"
       },
       {
         "name": "థున్ వద్ద ఆరే నది, థున్ సరస్సు వైపు చూస్తోంది, నీసెన్ మరియు బెర్నీస్ ఆల్ప్స్ దాటి",
@@ -4587,7 +4665,8 @@
           }
         ],
         "auction_location": "డెలావేర్",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Delaware"
       },
       {
         "name": "ఒక మహిళ యొక్క చిత్రం, బస్ట్-పొడవు",
@@ -4643,7 +4722,8 @@
           }
         ],
         "auction_location": "డిస్ట్రిక్ట్ ఆఫ్ కొలంబియా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "District of Columbia"
       },
       {
         "name": "హై కోస్ట్‌లో మితమైన గాలిలో ఒక డచ్ షిప్ మరియు వెసెల్ అండర్ సెయిల్",
@@ -4697,7 +4777,8 @@
           }
         ],
         "auction_location": "ఫ్లోరిడా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Florida"
       },
       {
         "name": "వేసవి: ది హార్వెస్టర్స్",
@@ -4753,7 +4834,8 @@
           }
         ],
         "auction_location": "జార్జియా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Georgia"
       },
       {
         "name": "ఒక దారిలో వేటగాళ్లు మరియు గ్రామస్థులు మరియు నేపథ్యంలో వారి మందతో గొర్రెల కాపరులతో ఇటాలియన్ ప్రకృతి దృశ్యం",
@@ -4816,7 +4898,8 @@
           }
         ],
         "auction_location": "హవాయి",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "పెర్సియస్ ఫినియాస్ మరియు అతని అనుచరులను రాయిగా మార్చాడు",
@@ -4875,7 +4958,8 @@
           }
         ],
         "auction_location": "ఇదాహో",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Idaho"
       },
       {
         "name": "పవిత్ర కుటుంబం",
@@ -4934,7 +5018,8 @@
           }
         ],
         "auction_location": "ఇల్లినాయిస్",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Illinois"
       },
       {
         "name": "సెయింట్స్ డొమినిక్ మరియు కేథరీన్ ఆఫ్ సియానాతో మడోన్నా మరియు చైల్డ్",
@@ -4990,7 +5075,8 @@
           }
         ],
         "auction_location": "ఇండియానా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Indiana"
       },
       {
         "name": "గొర్రెల కాపరుల ఆరాధన",
@@ -5046,7 +5132,8 @@
           }
         ],
         "auction_location": "అయోవా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Iowa"
       },
       {
         "name": "Ecce హోమో",
@@ -5105,7 +5192,8 @@
           }
         ],
         "auction_location": "కాన్సాస్",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kansas"
       },
       {
         "name": "ఘనీభవించిన నదిపై స్కేటర్లతో కూడిన శీతాకాలపు ప్రకృతి దృశ్యం",
@@ -5162,7 +5250,8 @@
           }
         ],
         "auction_location": "కెంటుకీ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kentucky"
       },
       {
         "name": "పరిసయ్యుడైన సైమన్‌తో విందులో క్రీస్తు",
@@ -5214,7 +5303,8 @@
           }
         ],
         "auction_location": "లూసియానా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Louisiana"
       },
       {
         "name": "ది అడరేషన్ ఆఫ్ ది మాగీ",
@@ -5269,7 +5359,8 @@
           }
         ],
         "auction_location": "మైనే",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maine"
       },
       {
         "name": "ప్రజా విశ్వాసం యొక్క ఉపమానం",
@@ -5327,7 +5418,8 @@
           }
         ],
         "auction_location": "మేరీల్యాండ్",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maryland"
       },
       {
         "name": "ది ఇన్ఫాంట్ సెయింట్ జాన్ ది బాప్టిస్ట్ విత్ ది లాంబ్",
@@ -5384,7 +5476,8 @@
           }
         ],
         "auction_location": "మసాచుసెట్స్",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Massachusetts"
       },
       {
         "name": "ది బ్లైండ్ హర్డీ-గుర్డి ప్లేయర్",
@@ -5437,7 +5530,8 @@
           }
         ],
         "auction_location": "మిచిగాన్",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Michigan"
       },
       {
         "name": "సొగసైన ఐస్ స్కేటర్‌లతో కూడిన శీతాకాలపు ప్రకృతి దృశ్యం",
@@ -5493,7 +5587,8 @@
         "auction_end_time": "15",
         "auction_start_time": "15",
         "auction_location": "మిన్నెసోటా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Minnesota"
       },
       {
         "name": "రాకీ తీరంలో మత్స్యకారులు తమ క్యాచ్‌ను ప్రదర్శిస్తున్నారు",
@@ -5550,7 +5645,8 @@
           }
         ],
         "auction_location": "మిస్సిస్సిప్పి",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Mississippi"
       },
       {
         "name": "తీర సూర్యాస్తమయం: ప్రశాంతమైన దృశ్యం",
@@ -5606,7 +5702,8 @@
           }
         ],
         "auction_location": "మిస్సోరి",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Missouri"
       },
       {
         "name": "గుర్రంపై ఉన్న సొగసైన మహిళ భిక్ష ఇస్తున్నది",
@@ -5668,7 +5765,8 @@
           }
         ],
         "auction_location": "మోంటానా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Montana"
       },
       {
         "name": "ది కెర్మెస్సే ఆఫ్ సెయింట్ జార్జ్",
@@ -5726,7 +5824,8 @@
           }
         ],
         "auction_location": "నెబ్రాస్కా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nebraska"
       },
       {
         "name": "అన్నీ స్టోక్స్",
@@ -5778,7 +5877,8 @@
           }
         ],
         "auction_location": "నెవాడా",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nevada"
       },
       {
         "name": "జెన్నిఫర్ లే",
@@ -5830,7 +5930,8 @@
           }
         ],
         "auction_location": "న్యూ హాంప్షైర్",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Hampshire"
       },
       {
         "name": "షేన్",
@@ -5868,7 +5969,8 @@
         "auction_end_time": "2023-11-20T18:00:00",
         "auction_start_time": "2023-11-01T09:00:00",
         "auction_location": "కొత్త కోటు",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Jersey"
       }
     ],
     "ta": [
@@ -5924,7 +6026,8 @@
           }
         ],
         "auction_location": "அலபாமா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alabama"
       },
       {
         "name": "தீசஸ் தனது தந்தையின் வாளை மீண்டும் கண்டுபிடித்தார்",
@@ -5985,7 +6088,8 @@
         ],
         "auction_location": "கலிபோர்னியா",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "California"
       },
       {
         "name": "நெமி ஏரியுடன் கூடிய ரோமன் காம்பாக்னாவின் காட்சி",
@@ -6048,7 +6152,8 @@
         ],
         "auction_location": "கொலராடோ",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "ஒரு பாதையில் வேட்டையாடுபவர்கள் மற்றும் கிராமவாசிகள் மற்றும் மேய்ப்பர்கள் தங்கள் மந்தையுடன் பின்னணியில் இருக்கும் இத்தாலிய நிலப்பரப்பு",
@@ -6112,7 +6217,8 @@
         ],
         "auction_location": "ஹவாய்",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "ஒரு கிட்டார், டம்பூரின், வேட்டையாடும் கொம்பு, கிளாரினெட், ஓபோ மற்றும் ஒரு பளிங்கு மேல் மேசையில் ஒரு டிரம்",
@@ -6177,7 +6283,8 @@
           }
         ],
         "auction_location": "அலாஸ்கா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alaska"
       },
       {
         "name": "ஒரு சரிகையால் வெட்டப்பட்ட கைத் துணி, ஒரு ஸ்டாண்டில் ஒரு பான் டல்ஸ் மற்றும் கண்ணாடிப் பொருட்கள், அனைத்தும் பச்சை நிற டமாஸ்கால் மூடப்பட்ட டேபிள்டாப்பில் ஏற்பாடு செய்யப்பட்டுள்ளன",
@@ -6238,7 +6345,8 @@
         "auction_end_time": "35",
         "auction_start_time": "35",
         "auction_location": "வாஷிங்டன்",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Washington"
       },
       {
         "name": "ரோமானிய நகரத்தின் மீது ஒரு மேகக்கணி ஆய்வு",
@@ -6299,7 +6407,8 @@
           }
         ],
         "auction_location": "ஆர்கன்சாஸ்",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Arkansas"
       },
       {
         "name": "தீசஸ் தனது தந்தையின் வாளை மீண்டும் கண்டுபிடித்தார்",
@@ -6359,7 +6468,8 @@
           }
         ],
         "auction_location": "கலிபோர்னியா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "California"
       },
       {
         "name": "நெமி ஏரியுடன் கூடிய ரோமன் காம்பாக்னாவின் காட்சி",
@@ -6421,7 +6531,8 @@
           }
         ],
         "auction_location": "கொலராடோ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "நேபிள்ஸ், விர்ஜிலின் கல்லறையுடன் பொசிலிபோவில் உள்ள சீயானோ குரோட்டோவின் காட்சி",
@@ -6484,7 +6595,8 @@
           }
         ],
         "auction_location": "கனெக்டிகட்",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Connecticut"
       },
       {
         "name": "துனில் உள்ள ஆரே நதி, துன் ஏரியை நோக்கி, நீசென் மற்றும் பெர்னீஸ் ஆல்ப்ஸ் மலைகளுக்கு அப்பால் உள்ளது",
@@ -6549,7 +6661,8 @@
           }
         ],
         "auction_location": "டெலவேர்",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Delaware"
       },
       {
         "name": "ஒரு பெண்ணின் உருவப்படம், மார்பளவு நீளம்",
@@ -6605,7 +6718,8 @@
           }
         ],
         "auction_location": "கொலம்பியா மாவட்டம்",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "District of Columbia"
       },
       {
         "name": "ஒரு டச்சுக் கப்பல் மற்றும் கப்பல் உயர் கடற்கரையில் மிதமான காற்றில் பயணிக்கிறது",
@@ -6662,7 +6776,8 @@
           }
         ],
         "auction_location": "புளோரிடா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Florida"
       },
       {
         "name": "கோடை: அறுவடை செய்பவர்கள்",
@@ -6721,7 +6836,8 @@
           }
         ],
         "auction_location": "ஜார்ஜியா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Georgia"
       },
       {
         "name": "ஒரு பாதையில் வேட்டையாடுபவர்கள் மற்றும் கிராமவாசிகள் மற்றும் மேய்ப்பர்கள் தங்கள் மந்தையுடன் பின்னணியில் இருக்கும் இத்தாலிய நிலப்பரப்பு",
@@ -6784,7 +6900,8 @@
           }
         ],
         "auction_location": "ஹவாய்",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "பெர்சியஸ் ஃபினியாஸ் மற்றும் அவரைப் பின்பற்றுபவர்களை கல்லாக மாற்றுகிறார்",
@@ -6843,7 +6960,8 @@
           }
         ],
         "auction_location": "ஐடாஹோ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Idaho"
       },
       {
         "name": "புனித குடும்பம்",
@@ -6902,7 +7020,8 @@
           }
         ],
         "auction_location": "இல்லினாய்ஸ்",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Illinois"
       },
       {
         "name": "சியானாவின் புனிதர்களான டொமினிக் மற்றும் கேத்தரின் ஆகியோருடன் மடோனா மற்றும் குழந்தை",
@@ -6958,7 +7077,8 @@
           }
         ],
         "auction_location": "இந்தியானா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Indiana"
       },
       {
         "name": "மேய்ப்பர்களின் அபிமானம்",
@@ -7014,7 +7134,8 @@
           }
         ],
         "auction_location": "அயோவா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Iowa"
       },
       {
         "name": "Ecce ஹோமோ",
@@ -7073,7 +7194,8 @@
           }
         ],
         "auction_location": "கன்சாஸ்",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kansas"
       },
       {
         "name": "உறைந்த ஆற்றில் ஸ்கேட்டர்களுடன் கூடிய குளிர்கால நிலப்பரப்பு",
@@ -7130,7 +7252,8 @@
           }
         ],
         "auction_location": "கென்டக்கி",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kentucky"
       },
       {
         "name": "கிறிஸ்து பரிசேயரான சைமன் உடன் இரவு உணவில்",
@@ -7182,7 +7305,8 @@
           }
         ],
         "auction_location": "லூசியானா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Louisiana"
       },
       {
         "name": "மந்திரவாதிகளின் வழிபாடு",
@@ -7237,7 +7361,8 @@
           }
         ],
         "auction_location": "மைனே",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maine"
       },
       {
         "name": "பொது நம்பிக்கையின் ஒரு உருவகம்",
@@ -7295,7 +7420,8 @@
           }
         ],
         "auction_location": "மேரிலாந்து",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maryland"
       },
       {
         "name": "குழந்தை செயிண்ட் ஜான் பாப்டிஸ்ட் ஆட்டுக்குட்டியுடன்",
@@ -7352,7 +7478,8 @@
           }
         ],
         "auction_location": "மாசசூசெட்ஸ்",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Massachusetts"
       },
       {
         "name": "தி பிளைண்ட் ஹர்டி-குர்டி பிளேயர்",
@@ -7405,7 +7532,8 @@
           }
         ],
         "auction_location": "மிச்சிகன்",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Michigan"
       },
       {
         "name": "நேர்த்தியான ஐஸ் ஸ்கேட்டர்களுடன் கூடிய குளிர்கால நிலப்பரப்பு",
@@ -7461,7 +7589,8 @@
         "auction_end_time": "15",
         "auction_start_time": "15",
         "auction_location": "மினசோட்டா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Minnesota"
       },
       {
         "name": "பாறை கடற்கரையில் மீனவர்கள் தங்கள் பிடியைக் காட்டுகிறார்கள்",
@@ -7518,7 +7647,8 @@
           }
         ],
         "auction_location": "மிசிசிப்பி",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Mississippi"
       },
       {
         "name": "கடற்கரை சூரிய அஸ்தமனம்: ஒரு அமைதியான காட்சி",
@@ -7574,7 +7704,8 @@
           }
         ],
         "auction_location": "மிசூரி",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Missouri"
       },
       {
         "name": "ஒரு நேர்த்தியான பெண்மணி குதிரையில் பிச்சை கொடுக்கிறார்",
@@ -7636,7 +7767,8 @@
           }
         ],
         "auction_location": "மொன்டானா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Montana"
       },
       {
         "name": "செயின்ட் ஜார்ஜின் கெர்மெஸ்ஸி",
@@ -7694,7 +7826,8 @@
           }
         ],
         "auction_location": "நெப்ராஸ்கா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nebraska"
       },
       {
         "name": "அன்னி ஸ்டோக்ஸ்",
@@ -7746,7 +7879,8 @@
           }
         ],
         "auction_location": "நெவாடா",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nevada"
       },
       {
         "name": "ஜெனிபர் லீ",
@@ -7798,7 +7932,8 @@
           }
         ],
         "auction_location": "நியூ ஹாம்ப்ஷயர்",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Hampshire"
       },
       {
         "name": "ஷேன்",
@@ -7836,7 +7971,8 @@
         "auction_end_time": "2023-11-20T18:00:00",
         "auction_start_time": "2023-11-01T09:00:00",
         "auction_location": "நியூ ஜெர்சி",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Jersey"
       }
     ],
     "kn": [
@@ -7892,7 +8028,8 @@
           }
         ],
         "auction_location": "ಅಲಬಾಮಾ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alabama"
       },
       {
         "name": "ಥೀಸಸ್ ತನ್ನ ತಂದೆಯ ಕತ್ತಿಯನ್ನು ಮರುಶೋಧಿಸುತ್ತಾನೆ",
@@ -7953,7 +8090,8 @@
         ],
         "auction_location": "ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "California"
       },
       {
         "name": "ನೇಮಿ ಸರೋವರದೊಂದಿಗೆ ರೋಮನ್ ಕ್ಯಾಂಪೇನಾದ ನೋಟ",
@@ -8016,7 +8154,8 @@
         ],
         "auction_location": "ಕೊಲೊರಾಡೋ",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "ಒಂದು ಹಾದಿಯಲ್ಲಿ ಬೇಟೆಗಾರರು ಮತ್ತು ಹಳ್ಳಿಗರು ಮತ್ತು ಹಿನ್ನಲೆಯಲ್ಲಿ ಕುರುಬರು ತಮ್ಮ ಹಿಂಡಿನೊಂದಿಗೆ ಇಟಾಲಿಯನ್ ಭೂದೃಶ್ಯ",
@@ -8080,7 +8219,8 @@
         ],
         "auction_location": "ಹವಾಯಿ",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "ಅಮೃತಶಿಲೆಯ ಮೇಲಿರುವ ಮೇಜಿನ ಮೇಲೆ ಗಿಟಾರ್, ಟಾಂಬೊರಿನ್, ಬೇಟೆಯಾಡುವ ಕೊಂಬು, ಕ್ಲಾರಿನೆಟ್, ಓಬೋ ಮತ್ತು ಡ್ರಮ್",
@@ -8145,7 +8285,8 @@
           }
         ],
         "auction_location": "ಅಲಾಸ್ಕಾ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alaska"
       },
       {
         "name": "ಒಂದು ಲೇಸ್-ಟ್ರಿಮ್ ಮಾಡಿದ ಕೈ ಬಟ್ಟೆ, ಪ್ಯಾನ್ ಡುಲ್ಸ್ ಮತ್ತು ಗಾಜಿನ ಸಾಮಾನುಗಳು ಸ್ಟ್ಯಾಂಡ್‌ನಲ್ಲಿ, ಎಲ್ಲವನ್ನೂ ಹಸಿರು ಡಮಾಸ್ಕ್‌ನಿಂದ ಹೊದಿಸಿದ ಮೇಜಿನ ಮೇಲೆ ಜೋಡಿಸಲಾಗಿದೆ",
@@ -8206,7 +8347,8 @@
         "auction_end_time": "35",
         "auction_start_time": "35",
         "auction_location": "ವಾಷಿಂಗ್ಟನ್",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Washington"
       },
       {
         "name": "ರೋಮನ್ ಪಟ್ಟಣದ ಮೇಲೆ ಮೋಡದ ಅಧ್ಯಯನ",
@@ -8267,7 +8409,8 @@
           }
         ],
         "auction_location": "ಅರ್ಕಾನ್ಸಾಸ್",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Arkansas"
       },
       {
         "name": "ಥೀಸಸ್ ತನ್ನ ತಂದೆಯ ಕತ್ತಿಯನ್ನು ಮರುಶೋಧಿಸುತ್ತಾನೆ",
@@ -8327,7 +8470,8 @@
           }
         ],
         "auction_location": "ಕ್ಯಾಲಿಫೋರ್ನಿಯಾ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "California"
       },
       {
         "name": "ನೇಮಿ ಸರೋವರದೊಂದಿಗೆ ರೋಮನ್ ಕ್ಯಾಂಪೇನಾದ ನೋಟ",
@@ -8389,7 +8533,8 @@
           }
         ],
         "auction_location": "ಕೊಲೊರಾಡೋ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "ನೇಪಲ್ಸ್, ವರ್ಜಿಲ್ ಸಮಾಧಿಯೊಂದಿಗೆ ಪೊಸಿಲಿಪೋದಲ್ಲಿನ ಸೀಯಾನೊ ಗ್ರೊಟ್ಟೊದ ನೋಟ",
@@ -8452,7 +8597,8 @@
           }
         ],
         "auction_location": "ಕನೆಕ್ಟಿಕಟ್",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Connecticut"
       },
       {
         "name": "ಥುನ್‌ನಲ್ಲಿರುವ ಆರೆ ನದಿಯು ಥುನ್ ಸರೋವರದ ಕಡೆಗೆ ನೋಡುತ್ತಿದೆ, ನೀಸೆನ್ ಮತ್ತು ಬರ್ನೀಸ್ ಆಲ್ಪ್ಸ್ ಆಚೆಗೆ",
@@ -8517,7 +8663,8 @@
           }
         ],
         "auction_location": "ಡೆಲವೇರ್",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Delaware"
       },
       {
         "name": "ಮಹಿಳೆಯ ಭಾವಚಿತ್ರ, ಬಸ್ಟ್-ಉದ್ದ",
@@ -8573,7 +8720,8 @@
           }
         ],
         "auction_location": "ಡಿಸ್ಟ್ರಿಕ್ಟ್ ಆಫ್ ಕೊಲಂಬಿಯಾ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "District of Columbia"
       },
       {
         "name": "ಹೈ ಕೋಸ್ಟ್‌ನಲ್ಲಿ ಮಧ್ಯಮ ತಂಗಾಳಿಯಲ್ಲಿ ಡಚ್ ಹಡಗು ಮತ್ತು ಹಡಗು",
@@ -8630,7 +8778,8 @@
           }
         ],
         "auction_location": "ಫ್ಲೋರಿಡಾ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Florida"
       },
       {
         "name": "ಬೇಸಿಗೆ: ದಿ ಹಾರ್ವೆಸ್ಟರ್ಸ್",
@@ -8686,7 +8835,8 @@
           }
         ],
         "auction_location": "ಜಾರ್ಜಿಯಾ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Georgia"
       },
       {
         "name": "ಒಂದು ಹಾದಿಯಲ್ಲಿ ಬೇಟೆಗಾರರು ಮತ್ತು ಹಳ್ಳಿಗರು ಮತ್ತು ಹಿನ್ನಲೆಯಲ್ಲಿ ಕುರುಬರು ತಮ್ಮ ಹಿಂಡಿನೊಂದಿಗೆ ಇಟಾಲಿಯನ್ ಭೂದೃಶ್ಯ",
@@ -8749,7 +8899,8 @@
           }
         ],
         "auction_location": "ಹವಾಯಿ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "ಪರ್ಸೀಯಸ್ ಫಿನೇಸ್ ಮತ್ತು ಅವನ ಅನುಯಾಯಿಗಳನ್ನು ಕಲ್ಲಿಗೆ ತಿರುಗಿಸುತ್ತಾನೆ",
@@ -8805,7 +8956,8 @@
           }
         ],
         "auction_location": "ಇದಾಹೊ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Idaho"
       },
       {
         "name": "ಪವಿತ್ರ ಕುಟುಂಬ",
@@ -8864,7 +9016,8 @@
           }
         ],
         "auction_location": "ಇಲಿನಾಯ್ಸ್",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Illinois"
       },
       {
         "name": "ಮಡೋನಾ ಮತ್ತು ಚೈಲ್ಡ್ ವಿಥ್ ಸೇಂಟ್ಸ್ ಡೊಮಿನಿಕ್ ಮತ್ತು ಕ್ಯಾಥರೀನ್ ಆಫ್ ಸಿಯೆನಾ",
@@ -8917,7 +9070,8 @@
           }
         ],
         "auction_location": "ಇಂಡಿಯಾನಾ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Indiana"
       },
       {
         "name": "ಕುರುಬರ ಆರಾಧನೆ",
@@ -8973,7 +9127,8 @@
           }
         ],
         "auction_location": "ಅಯೋವಾ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Iowa"
       },
       {
         "name": "ಎಸೆ ಹೋಮೋ",
@@ -9032,7 +9187,8 @@
           }
         ],
         "auction_location": "ಕಾನ್ಸಾಸ್",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kansas"
       },
       {
         "name": "ಹೆಪ್ಪುಗಟ್ಟಿದ ನದಿಯಲ್ಲಿ ಸ್ಕೇಟರ್‌ಗಳೊಂದಿಗೆ ಚಳಿಗಾಲದ ಭೂದೃಶ್ಯ",
@@ -9089,7 +9245,8 @@
           }
         ],
         "auction_location": "ಕೆಂಟುಕಿ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kentucky"
       },
       {
         "name": "ಕ್ರಿಸ್ತನು ಸಪ್ಪರ್‌ನಲ್ಲಿ ಸೈಮನ್ ದಿ ಫರಿಸಾಯನೊಂದಿಗೆ",
@@ -9141,7 +9298,8 @@
           }
         ],
         "auction_location": "ಲೂಯಿಸಿಯಾನ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Louisiana"
       },
       {
         "name": "ಮಾಗಿಯ ಆರಾಧನೆ",
@@ -9196,7 +9354,8 @@
           }
         ],
         "auction_location": "ಮೈನೆ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maine"
       },
       {
         "name": "ಸಾರ್ವಜನಿಕ ನಂಬಿಕೆಯ ಉಪಮೆ",
@@ -9254,7 +9413,8 @@
           }
         ],
         "auction_location": "ಮೇರಿಲ್ಯಾಂಡ್",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maryland"
       },
       {
         "name": "ಕುರಿಮರಿಯೊಂದಿಗೆ ಶಿಶು ಸಂತ ಜಾನ್ ದಿ ಬ್ಯಾಪ್ಟಿಸ್ಟ್",
@@ -9311,7 +9471,8 @@
           }
         ],
         "auction_location": "ಮ್ಯಾಸಚೂಸೆಟ್ಸ್",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Massachusetts"
       },
       {
         "name": "ದಿ ಬ್ಲೈಂಡ್ ಹರ್ಡಿ-ಗುರ್ಡಿ ಪ್ಲೇಯರ್",
@@ -9364,7 +9525,8 @@
           }
         ],
         "auction_location": "ಮಿಚಿಗನ್",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Michigan"
       },
       {
         "name": "ಸೊಗಸಾದ ಐಸ್ ಸ್ಕೇಟರ್‌ಗಳೊಂದಿಗೆ ಚಳಿಗಾಲದ ಭೂದೃಶ್ಯ",
@@ -9420,7 +9582,8 @@
         "auction_end_time": "15",
         "auction_start_time": "15",
         "auction_location": "ಮಿನ್ನೇಸೋಟ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Minnesota"
       },
       {
         "name": "ರಾಕಿ ಕರಾವಳಿಯಲ್ಲಿ ಮೀನುಗಾರರು ತಮ್ಮ ಕ್ಯಾಚ್ ಅನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿದ್ದಾರೆ",
@@ -9477,7 +9640,8 @@
           }
         ],
         "auction_location": "ಮಿಸಿಸಿಪ್ಪಿ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Mississippi"
       },
       {
         "name": "ಕರಾವಳಿ ಸೂರ್ಯಾಸ್ತ: ಒಂದು ಪ್ರಶಾಂತ ದೃಶ್ಯ",
@@ -9533,7 +9697,8 @@
           }
         ],
         "auction_location": "ಮಿಸೌರಿ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Missouri"
       },
       {
         "name": "ಭಿಕ್ಷೆ ನೀಡುವ ಕುದುರೆಯ ಮೇಲೆ ಸೊಗಸಾದ ಮಹಿಳೆ",
@@ -9595,7 +9760,8 @@
           }
         ],
         "auction_location": "ಮೊಂಟಾನಾ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Montana"
       },
       {
         "name": "ಸೇಂಟ್ ಜಾರ್ಜ್‌ನ ಕೆರ್ಮೆಸ್ಸೆ",
@@ -9653,7 +9819,8 @@
           }
         ],
         "auction_location": "ನೆಬ್ರಸ್ಕಾ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nebraska"
       },
       {
         "name": "ಅನ್ನಿ ಸ್ಟೋಕ್ಸ್",
@@ -9705,7 +9872,8 @@
           }
         ],
         "auction_location": "ನೆವಾಡಾ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nevada"
       },
       {
         "name": "ಜೆನ್ನಿಫರ್ ಲೆ",
@@ -9757,7 +9925,8 @@
           }
         ],
         "auction_location": "ನ್ಯೂ ಹ್ಯಾಂಪ್‌ಶೈರ್",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Hampshire"
       },
       {
         "name": "ಶೇನ್",
@@ -9795,7 +9964,8 @@
         "auction_end_time": "2023-11-20T18:00:00",
         "auction_start_time": "2023-11-01T09:00:00",
         "auction_location": "ನ್ಯೂ ಜೆರ್ಸಿ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Jersey"
       }
     ],
     "ml": [
@@ -9851,7 +10021,8 @@
           }
         ],
         "auction_location": "അലബാമ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alabama"
       },
       {
         "name": "തീസസ് തൻ്റെ പിതാവിൻ്റെ വാൾ വീണ്ടും കണ്ടെത്തുന്നു",
@@ -9912,7 +10083,8 @@
         ],
         "auction_location": "കാലിഫോർണിയ",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "California"
       },
       {
         "name": "നെമി തടാകത്തോടുകൂടിയ റോമൻ കാമ്പാഗ്നയുടെ കാഴ്ച",
@@ -9975,7 +10147,8 @@
         ],
         "auction_location": "കൊളറാഡോ",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "ഒരു പാതയിൽ വേട്ടക്കാരും ഗ്രാമീണരും, പശ്ചാത്തലത്തിൽ ആട്ടിൻകൂട്ടവുമായി ഇടയന്മാരുമുള്ള ഒരു ഇറ്റാലിയൻ ഭൂപ്രകൃതി",
@@ -10039,7 +10212,8 @@
         ],
         "auction_location": "ഹവായ്",
         "id": 1714722837838,
-        "is_placed": true
+        "is_placed": true,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "ഒരു ഗിറ്റാർ, ടാംബോറിൻ, വേട്ടയാടുന്ന കൊമ്പ്, ക്ലാരിനെറ്റ്, ഓബോ, മാർബിൾ മേശപ്പുറത്ത് ഒരു ഡ്രം",
@@ -10104,7 +10278,8 @@
           }
         ],
         "auction_location": "അലാസ്ക",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Alaska"
       },
       {
         "name": "ഒരു ലെയ്സ് ഒട്ടിച്ച കൈ തുണി, ഒരു സ്റ്റാൻഡിൽ ഒരു പാൻ ഡൾസ്, ഗ്ലാസ്വെയർ, എല്ലാം പച്ച ഡമാസ്ക് കൊണ്ട് പൊതിഞ്ഞ ഒരു മേശപ്പുറത്ത് ക്രമീകരിച്ചിരിക്കുന്നു",
@@ -10165,7 +10340,8 @@
         "auction_end_time": "35",
         "auction_start_time": "35",
         "auction_location": "വാഷിംഗ്ടൺ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Washington"
       },
       {
         "name": "ഒരു റോമൻ പട്ടണത്തിൽ ഒരു ക്ലൗഡ് പഠനം",
@@ -10226,7 +10402,8 @@
           }
         ],
         "auction_location": "അർക്കൻസാസ്",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Arkansas"
       },
       {
         "name": "തീസസ് തൻ്റെ പിതാവിൻ്റെ വാൾ വീണ്ടും കണ്ടെത്തുന്നു",
@@ -10286,7 +10463,8 @@
           }
         ],
         "auction_location": "കാലിഫോർണിയ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "California"
       },
       {
         "name": "നെമി തടാകത്തോടുകൂടിയ റോമൻ കാമ്പാഗ്നയുടെ കാഴ്ച",
@@ -10348,7 +10526,8 @@
           }
         ],
         "auction_location": "കൊളറാഡോ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Colorado"
       },
       {
         "name": "നേപ്പിൾസ്, വിർജിലിൻ്റെ ശവകുടീരത്തോടുകൂടിയ പോസിലിപ്പോയിലെ സീയാനോ ഗ്രോട്ടോയുടെ കാഴ്ച",
@@ -10411,7 +10590,8 @@
           }
         ],
         "auction_location": "കണക്റ്റിക്കട്ട്",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Connecticut"
       },
       {
         "name": "തുണിലെ ആരെ നദി, തുൺ തടാകത്തിലേക്ക് നോക്കുന്നു, അതിനപ്പുറത്ത് നീസെനും ബെർണീസ് ആൽപ്‌സും",
@@ -10479,7 +10659,8 @@
           }
         ],
         "auction_location": "ഡെലവെയർ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Delaware"
       },
       {
         "name": "ഒരു സ്ത്രീയുടെ ഛായാചിത്രം, ബസ്റ്റ്-ലെങ്ത്",
@@ -10535,7 +10716,8 @@
           }
         ],
         "auction_location": "ഡിസ്ട്രിക്റ്റ് ഓഫ് കൊളംബിയ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "District of Columbia"
       },
       {
         "name": "ഉയർന്ന തീരത്ത് മിതമായ കാറ്റിൽ ഒരു ഡച്ച് കപ്പലും കപ്പലും",
@@ -10592,7 +10774,8 @@
           }
         ],
         "auction_location": "ഫ്ലോറിഡ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Florida"
       },
       {
         "name": "വേനൽ: ദി ഹാർവെസ്റ്റേഴ്സ്",
@@ -10648,7 +10831,8 @@
           }
         ],
         "auction_location": "ജോർജിയ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Georgia"
       },
       {
         "name": "ഒരു പാതയിൽ വേട്ടക്കാരും ഗ്രാമീണരും, പശ്ചാത്തലത്തിൽ ആട്ടിൻകൂട്ടവുമായി ഇടയന്മാരുമുള്ള ഒരു ഇറ്റാലിയൻ ഭൂപ്രകൃതി",
@@ -10711,7 +10895,8 @@
           }
         ],
         "auction_location": "ഹവായ്",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Hawaii"
       },
       {
         "name": "പെർസ്യൂസ് ഫിനിയസിനെയും അനുയായികളെയും കല്ലാക്കി മാറ്റുന്നു",
@@ -10770,7 +10955,8 @@
           }
         ],
         "auction_location": "ഐഡഹോ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Idaho"
       },
       {
         "name": "വിശുദ്ധ കുടുംബം",
@@ -10829,7 +11015,8 @@
           }
         ],
         "auction_location": "ഇല്ലിനോയിസ്",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Illinois"
       },
       {
         "name": "സിയീനയിലെ വിശുദ്ധരായ ഡൊമിനിക്കും കാതറിനും ഒപ്പമുള്ള മഡോണയും കുട്ടിയും",
@@ -10885,7 +11072,8 @@
           }
         ],
         "auction_location": "ഇന്ത്യാന",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Indiana"
       },
       {
         "name": "ഇടയന്മാരുടെ ആരാധന",
@@ -10941,7 +11129,8 @@
           }
         ],
         "auction_location": "അയോവ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Iowa"
       },
       {
         "name": "എക്സെ ഹോമോ",
@@ -11000,7 +11189,8 @@
           }
         ],
         "auction_location": "കൻസാസ്",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kansas"
       },
       {
         "name": "ശീതീകരിച്ച നദിയിൽ സ്കേറ്ററുകളുള്ള ഒരു ശീതകാല ലാൻഡ്സ്കേപ്പ്",
@@ -11057,7 +11247,8 @@
           }
         ],
         "auction_location": "കെൻ്റക്കി",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Kentucky"
       },
       {
         "name": "പരീശനായ ശിമോനൊപ്പം അത്താഴത്തിൽ ക്രിസ്തു",
@@ -11109,7 +11300,8 @@
           }
         ],
         "auction_location": "ലൂസിയാന",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Louisiana"
       },
       {
         "name": "മാഗിയുടെ ആരാധന",
@@ -11164,7 +11356,8 @@
           }
         ],
         "auction_location": "മെയിൻ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maine"
       },
       {
         "name": "പൊതു വിശ്വാസത്തിൻ്റെ ഒരു ഉപമ",
@@ -11222,7 +11415,8 @@
           }
         ],
         "auction_location": "മേരിലാൻഡ്",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Maryland"
       },
       {
         "name": "കുഞ്ഞാടിനൊപ്പം ശിശു വിശുദ്ധ ജോൺ ദി ബാപ്റ്റിസ്റ്റ്",
@@ -11279,7 +11473,8 @@
           }
         ],
         "auction_location": "മസാച്യുസെറ്റ്സ്",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Massachusetts"
       },
       {
         "name": "ദി ബ്ലൈൻഡ് ഹർഡി-ഗുർഡി പ്ലെയർ",
@@ -11332,7 +11527,8 @@
           }
         ],
         "auction_location": "മിഷിഗൺ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Michigan"
       },
       {
         "name": "ഗംഭീരമായ ഐസ് സ്കേറ്ററുകളുള്ള ഒരു ശീതകാല ലാൻഡ്സ്കേപ്പ്",
@@ -11388,7 +11584,8 @@
         "auction_end_time": "15",
         "auction_start_time": "15",
         "auction_location": "മിനസോട്ട",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Minnesota"
       },
       {
         "name": "മത്സ്യത്തൊഴിലാളികൾ അവരുടെ മീൻപിടിത്തം ഒരു റോക്കി തീരത്ത് പ്രദർശിപ്പിക്കുന്നു",
@@ -11445,7 +11642,8 @@
           }
         ],
         "auction_location": "മിസിസിപ്പി",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Mississippi"
       },
       {
         "name": "തീരദേശ സൂര്യാസ്തമയം: ശാന്തമായ ഒരു രംഗം",
@@ -11501,7 +11699,8 @@
           }
         ],
         "auction_location": "മിസോറി",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Missouri"
       },
       {
         "name": "കുതിരപ്പുറത്ത് ഭിക്ഷ കൊടുക്കുന്ന സുന്ദരിയായ ഒരു സ്ത്രീ",
@@ -11563,7 +11762,8 @@
           }
         ],
         "auction_location": "മൊണ്ടാന",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Montana"
       },
       {
         "name": "സെൻ്റ് ജോർജ്ജിൻ്റെ കെർമിസ്",
@@ -11621,7 +11821,8 @@
           }
         ],
         "auction_location": "നെബ്രാസ്ക",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nebraska"
       },
       {
         "name": "ആനി സ്റ്റോക്സ്",
@@ -11673,7 +11874,8 @@
           }
         ],
         "auction_location": "നെവാഡ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "Nevada"
       },
       {
         "name": "ജെന്നിഫർ ലെ",
@@ -11725,7 +11927,8 @@
           }
         ],
         "auction_location": "ന്യൂ ഹാംഷെയർ",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Hampshire"
       },
       {
         "name": "ഷെയ്ൻ",
@@ -11763,7 +11966,8 @@
         "auction_end_time": "2023-11-20T18:00:00",
         "auction_start_time": "2023-11-01T09:00:00",
         "auction_location": "ന്യൂജേഴ്‌സി",
-        "id": 1714722837838
+        "id": 1714722837838,
+        "auction_location_key": "New Jersey"
       }
     ]
   },
@@ -13513,7 +13717,7 @@
       }
     ]
   },
-  "museo_readyToCheckout":  {
+  "museo_readyToCheckout": {
     "en": [
       {
         "id": 1707307000128,
