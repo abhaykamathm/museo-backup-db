@@ -18239,23 +18239,6 @@
           "show": false
         },
         "user_id": "567b655d-17fe-4c91-98f1-24a4f7a3f5d8",
-        "img_path": "/Images/Home/painting7.webp",
-        "artist": "Simon Joseph Alexandre Clément Denis",
-        "auction_type": "live",
-        "name": "A cloud study over a Roman town",
-        "count": 12,
-        "reminder_id": "ed041509-0577-47c1-aef7-e4c29f01cab0",
-        "state": "newyork",
-        "country": "us",
-        "lang": "en"
-      },
-      {
-        "lot": 1,
-        "timer": {
-          "end_date": "2024-01-17T00:00:00",
-          "show": false
-        },
-        "user_id": "567b655d-17fe-4c91-98f1-24a4f7a3f5d8",
         "img_path": "/Images/Home/painting16.webp",
         "artist": "Jan Dirksz Both",
         "auction_type": "upcoming",
