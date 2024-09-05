@@ -18258,23 +18258,6 @@
         "user_id": "567b655d-17fe-4c91-98f1-24a4f7a3f5d8",
         "img_path": "/Images/Home/painting16.webp",
         "artist": "Jan Dirksz Both",
-        "auction_type": "live",
-        "name": "An Italianate landscape with huntsmen and villagers on a path and shepherds with their herd in the background",
-        "count": 16,
-        "reminder_id": "ce359565-0d46-4559-8544-c92821e5715c",
-        "state": "newyork",
-        "country": "us",
-        "lang": "en"
-      },
-      {
-        "lot": 1,
-        "timer": {
-          "end_date": "2024-01-17T00:00:00",
-          "show": false
-        },
-        "user_id": "567b655d-17fe-4c91-98f1-24a4f7a3f5d8",
-        "img_path": "/Images/Home/painting16.webp",
-        "artist": "Jan Dirksz Both",
         "auction_type": "upcoming",
         "name": "An Italianate landscape with huntsmen and villagers on a path and shepherds with their herd in the background",
         "count": 16,
